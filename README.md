@@ -3,7 +3,7 @@
 ## Contributors
 
 - Deepank Agrawal
-- Snehal Reddy Kokuntala
+- Snehal Reddy Koukuntla
 - Shrey Shrivastava
 - Kanishk Singh
 
